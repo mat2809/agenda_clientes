@@ -1,0 +1,7 @@
+| # Requisitos para o Gerenciador de Clientes em Python
+# Este projeto utiliza apenas bibliotecas da biblioteca padrão do Python.
+
+# Tkinter - usado para a interface gráfica
+# (já vem com o Python, mas pode precisar ser instalado manualmente no Linux)
+# Para instalar no Linux:
+# sudo apt install python3-tk
