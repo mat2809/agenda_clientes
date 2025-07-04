@@ -155,4 +155,4 @@ Distribuição: Criação de executáveis com PyInstaller
 ✅ Adição de paginação ou busca por ID
 
 📅 Última Atualização
-27 de junho de 2025
+04 de julho de 2025
